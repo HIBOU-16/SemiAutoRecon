@@ -1,9 +1,4 @@
 > It's like bowling with bumpers, but you have to verbally agree to every throw. - [@ippsec](https://twitter.com/ippsec)
-## TEST
-## TEST2
-
-
-
 
 For a quick introduction to SemiAutoRecon, please see the below YouTube video:
 
