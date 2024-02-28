@@ -2,3 +2,4 @@ appdirs
 colorama
 toml
 unidecode
+""""requirements""""
